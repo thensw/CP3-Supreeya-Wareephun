@@ -1,3 +1,4 @@
+#input from user
 score_eng = float(input('Foundation English :'))
 score_bus = float(input('General Business :'))
 score_CompSyst = float(input('Introduction to Computer Systems :'))
