@@ -1,4 +1,4 @@
-systemMenu = {'rice':30,'chic':15, 'cow':60}
+systemMenu = {'rice':30,'chic':15, 'cow':60} #ใช้dict
 menuList = []
 while True:
     menuName = input('please enter menu: ')
